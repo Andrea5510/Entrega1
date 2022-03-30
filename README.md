@@ -41,3 +41,9 @@ Proyecto Web Django con patrón MVT que incluya:
 5. Readme que indique el orden en el que se prueban las cosas y/oo donde están las
 funcionalidades
 
+# Github
+
+La rama productiva en Github es Main
+
+
+
